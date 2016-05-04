@@ -1,0 +1,42 @@
+{
+  "name": "change-case",
+  "main": "dist/change-case.js",
+  "version": "2.3.0",
+  "description": "Convert a string between camelCase, PascalCase, Title Case, snake_case and more.",
+  "homepage": "https://github.com/Deadarius/change-case",
+  "authors": [
+    "Deadarius <deadarius.dendr@gmail.com>",
+    "Blake Embrey <hello@blakeembrey.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "camel",
+    "pascal",
+    "title",
+    "case",
+    "lower",
+    "upper",
+    "param",
+    "dot",
+    "path",
+    "constant",
+    "cases",
+    "check"
+  ],
+  "_release": "2.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.3.0",
+    "commit": "47ffcfd646c9fbd579d14df9796b5cbc595b33d3"
+  },
+  "_source": "git://github.com/Deadarius/change-case.git",
+  "_target": "~2.3.0",
+  "_originalSource": "change-case"
+}
